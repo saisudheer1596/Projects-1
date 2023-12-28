@@ -3,6 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+import 'owl.carousel/dist/assets/owl.carousel.css';
+import 'owl.carousel/dist/assets/owl.theme.default.css';
+import '@fortawesome/fontawesome-svg-core/styles.css';
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import 'react-multi-carousel/lib/styles.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
